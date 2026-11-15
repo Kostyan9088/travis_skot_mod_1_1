@@ -1,7 +1,0 @@
-{
-  "item.astroworld.cactus_jack_mic": "Микрофон Cactus Jack",
-  "item.astroworld.cactus_jack_mic.tooltip": "ПКМ — запустить концерт ASTROWORLD",
-  "entity.astroworld.cactus_avatar": "Аватар Cactus Jack",
-  "message.astroworld.already_running": "Концерт уже идёт!",
-  "subtitles.astroworld.sicko_mode": "Играет музыка концерта"
-}
