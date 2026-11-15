@@ -1,0 +1,9 @@
+{
+  "sicko_mode": {
+    "category": "master",
+    "subtitle": "subtitles.astroworld.sicko_mode",
+    "sounds": [
+      { "name": "astroworld:sicko_mode", "stream": true }
+    ]
+  }
+}

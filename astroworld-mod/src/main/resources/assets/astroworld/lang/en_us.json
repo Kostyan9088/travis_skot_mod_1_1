@@ -1,0 +1,7 @@
+{
+  "item.astroworld.cactus_jack_mic": "Cactus Jack Mic",
+  "item.astroworld.cactus_jack_mic.tooltip": "Right-click to start the ASTROWORLD concert",
+  "entity.astroworld.cactus_avatar": "Cactus Jack Avatar",
+  "message.astroworld.already_running": "A concert is already in progress!",
+  "subtitles.astroworld.sicko_mode": "Concert music plays"
+}

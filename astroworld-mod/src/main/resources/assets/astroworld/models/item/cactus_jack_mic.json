@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "astroworld:item/cactus_jack_mic"
+  }
+}
